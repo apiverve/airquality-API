@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/airquality-API.git"
   },
   "keywords": [
-    "air quality"," air quality data"," air quality api"," air quality data api"," air quality tool"," air quality software"," air quality service"," air quality library"," air quality sdk"," air quality code"," air quality script"," air quality program"," air quality application"," air quality app"," air quality utility"," air quality helper"," air quality helper tool"," air quality helper software"," air quality helper service"," air quality helper library"," air quality helper sdk"," air quality helper code"," air quality helper script"," air quality helper program"," air quality helper application"," air quality helper app"," air quality helper tool"," air quality helper utility"," air quality helper"
+    "air quality","air quality data","air quality api","air quality data api","air quality tool"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
